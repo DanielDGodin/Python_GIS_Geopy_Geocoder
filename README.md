@@ -1,8 +1,8 @@
 # Python_GIS_Geopy_Geocoder
 
-Contains Python Code for Geo coding and reverse geocoding
+Contains Python Code using GeoPy library for Geo coding, reverse geocoding, Distance measuring
 
-1) Geo Coder:
+1) GeoCoder.py:
 
 This Python script demonstrates **geocoding** using the `geopy` library. Geocoding is the process of converting a human-readable address into geographic coordinates (latitude and longitude) and retrieving additional location details.
 
@@ -72,7 +72,7 @@ Address not found.
 
 
 
-2) Reverse Geo coder
+2) GeoCoder_Reverse.py
 
 This Python script demonstrates **reverse geocoding** using the `geopy` library. Reverse geocoding converts geographic coordinates (latitude and longitude) into a human-readable address.
 
